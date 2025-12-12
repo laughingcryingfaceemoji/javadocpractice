@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"summons","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"summons","l":"summons()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"SummonScroll","l":"SummonScroll(int, int)","u":"%3Cinit%3E(int,int)"},{"p":"<Unnamed>","c":"SummonScroll","l":"threat(String)","u":"threat(java.lang.String)"}];updateSearchResults();
